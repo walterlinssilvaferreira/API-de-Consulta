@@ -1,2 +1,2 @@
 # api-RESTfull
-API de consulta de alunos simples em PHP com Laravel
+API de consulta de alunos simples em PHP com Laravel 8
